@@ -1,0 +1,992 @@
+   50  /usr/local/bin/python3 /Users/matthew/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+   51  /usr/local/bin/python3 /Users/matthew/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+   52  /usr/local/bin/python3 /Users/matthew/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+   53  /usr/local/bin/python3 /Users/matthew/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+   54  /usr/local/bin/python3 /Users/matthew/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+   55  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/Class 2/Class_2_Activities/05_Stu_Conditionals/Unsolved/conditionals.py"
+   56  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/Class 2/Class_2_Activities/06_Ins_Functions/Solved/functions.py"
+   57  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/Class 2/Class_2_Activities/07_Stu_Functions/Solved/functions.py"
+   58  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   59  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   60  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   61  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   62  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Solved/loops.py
+   63  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Solved/loops.py
+   64  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Solved/loops.py
+   65  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Solved/loops.py
+   66  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Solved/loops.py
+   67  /usr/local/bin/python3 /Users/matthew/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/shell_exec.py /usr/local/bin/python3 -m pip install -U ipykernel /var/folders/0x/x4nws4v11vj2wn0bd7g59v0m0000gn/T/tmp-29617QRadZfQEvxGO.log
+   68  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   69  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   70  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   71  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   72  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   73  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   74  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   75  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   76  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   77  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   78  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   79  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   80  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   81  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   82  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   83  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   84  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   85  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Unsolved/loops.py
+   86  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   87  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   88  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   89  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   90  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   91  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   92  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   93  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   94  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   95  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   96  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   97  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   98  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+   99  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  100  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  101  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  102  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  103  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  104  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  105  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  106  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  107  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  108  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  109  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  110  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  111  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  112  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  113  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  114  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  115  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  116  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  117  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  118  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  119  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  120  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  121  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  122  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  123  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  124  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  125  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  126  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  127  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  128  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  129  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  130  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  131  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  132  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  133  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  134  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  135  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  136  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  137  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  138  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Solved/loops.py
+  139  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  140  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  141  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  142  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  143  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Solved/loops.py
+  144  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  145  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  146  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  147  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Solved/loops.py
+  148  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  149  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  150  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  151  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  152  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  153  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  154  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  155  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  156  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  157  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  158  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  159  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  160  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  161  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  162  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  163  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  164  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  165  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  166  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  167  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  168  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  169  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  170  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  171  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  172  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  173  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  174  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  175  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  176  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  177  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  178  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  179  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  180  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  181  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  182  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  183  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  184  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  185  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  186  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  187  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  188  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  189  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  190  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  191  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  192  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  193  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  194  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  195  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  196  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  197  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  198  /usr/local/bin/python3 /Users/matthew/Downloads/09_Stu_Loops/Solved/loops.py
+  199  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  200  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  201  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  202  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  203  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  204  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  205  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  206  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  207  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  208  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  209  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  210  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  211  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  212  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  213  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  214  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  215  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  216  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  217  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  218  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  219  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  220  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  221  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  222  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  223  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  224  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  225  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  226  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  227  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  228  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  229  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  230  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  231  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  232  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  233  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  234  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  235  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  236  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  237  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  238  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  239  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  240  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  241  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  242  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  243  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  244  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  245  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  246  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  247  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  248  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  249  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  250  /usr/local/bin/python3 /Users/matthew/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  251  /usr/local/bin/python3 /Users/matthew/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  252  /usr/local/bin/python3 /Users/matthew/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  253  conda activate 
+  254  conda activate dev
+  255  ls
+  256  desktop
+  257  DEsktop
+  258  Desktop
+  259  cd Desktop
+  260  cd fintech
+  261  cd Class_1
+  262  cd Class 1
+  263  cd Class+1
+  264  Class 1
+  265  deactivate conda dev
+  266  deactivate conda dev
+  267  source deactivate
+  268  conda deactivate
+  269  conda activate
+  270  conda activate dev
+  271  cd
+  272  ls
+  273  cd Downloads
+  274  cd conditional_statements.py
+  275  ls
+  276  cd 01_Conditional_Statement
+  277  cd Unsolved
+  278  cd conditional_statement.py
+  279  open .
+  280  pwd
+  281  $ open ~conditional_statement.py
+  282  open conditional_statement.py
+  283  run
+  284  run conditional_statement.py
+  285  python3 terminal.py
+  286  python 3 conditional_statement.py
+  287  python3 conditional_statement.py
+  288  cd ..
+  289  cd ..
+  290  cd 02_Returned_Goods
+  291  cd Unsolved
+  292  python3 returned_goods.py
+  293  pip -v
+  294  pip freeze
+  295  pip install fire
+  296  pip install questionary
+  297  /usr/local/bin/python3 /Users/matthew/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  298   /usr/local/bin/python3 /Users/matthew/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  299  /usr/local/bin/python3 /Users/matthew/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  300  /usr/local/bin/python3 /Users/matthew/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  301  /usr/local/bin/python3 /Users/matthew/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  302  /usr/local/bin/python3 /Users/matthew/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  303  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  304  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  305  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  306  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  307  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  308  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  309  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  310  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  311  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  312  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  313  home
+  314  echo $HOME
+  315  cd /Users/matthew/Desktop/
+  316  ls -ltr
+  317  cd 01_Loan_Qualifier_Financial_Calculations
+  318  ls -ltr
+  319  cd Unsolved
+  320  ls -ltr
+  321  pwd
+  322  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  323  cd ~
+  324  pwd
+  325  cd /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations
+  326  ls -ltr
+  327  cd  Unsolved
+  328  pwd
+  329  vi .zshrc
+  330  . .zshrc
+  331  exit
+  332  ls -ltr
+  333  clear
+  334  ls -ltr
+  335  vi .zshrc
+  336  exit
+  337  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  338  shell
+  339  ls -ltr
+  340  ls -la
+  341  vi .zshrc
+  342  . .zshrc
+  343  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  344  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  345  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  346  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  347  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  348  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  349  ls -ltr
+  350  ls -ltr
+  351  clear
+  352  ce
+  353  cd Desktop
+  354  ls -ltr
+  355  cd 01_Loan_Qualifier_Financial_Calculations
+  356  ls -ltr
+  357  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  358  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  359  ls
+  360  cd desktop
+  361  cd fin
+  362  cd fintech
+  363  cd M2\ Class\ 1
+  364  cd 02_Loan_Qualifier_Filtering_Data
+  365  cd Unsolved
+  366  cd data
+  367  cd daily_rate_sheet.csv
+  368  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  369  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  370  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  371  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  372  cd
+  373  ls
+  374  conda activate dev
+  375  cd desktop
+  376  cd 01_Loan_Qualifier_Financial_Calculations
+  377  cd Unsolved
+  378  cd data
+  379  cd daily_rate_sheet.csv
+  380  open daily_rate_sheet.csv
+  381  ls
+  382  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  383  /usr/local/bin/python3 "/Users/matthew/Desktop/Fintech/M2 Class 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  384  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/qualifier/utils/fileio.py
+  385  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/app.py
+  386  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/app.py
+  387  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/app.py
+  388  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/app.py
+  389  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/app.py
+  390  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/app.py
+  391  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/app.py
+  392  /usr/local/bin/python3 /Users/matthew/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/app.py
+  393  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  394  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  395  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  396  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  397  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  398  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  399  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  400  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  401  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  402  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  403  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  404  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  405  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  406  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  407  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  408  /usr/local/bin/python3 /Users/matthew/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  409  /usr/local/bin/python3 /Users/matthew/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  410  /usr/local/bin/python3 /Users/matthew/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  411  /usr/local/bin/python3 /Users/matthew/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  412  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  413  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  414  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  415  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  416  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  417  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  418  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  419  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  420  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  421  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  422  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  423  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  424  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  425  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  426  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Solved/03-dicts-01/Solved/dicts-01.py
+  427  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Solved/03-dicts-01/Solved/dicts-01.py
+  428  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Solved/03-dicts-01/Solved/dicts-01.py
+  429  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Solved/08-functions-02/Solved/functions-02.py
+  430  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  431  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  432  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  433  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  434  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  435  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Solved/08-functions-02/Solved/functions-02.py
+  436  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  437  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  438  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  439  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  440  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  441  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  442  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  443  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  444  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  445  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  446  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  447  /usr/local/bin/python3 /Users/matthew/Downloads/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  448  /usr/local/bin/python3 /Users/matthew/Downloads/FinTech-UW-2021-11-e66ce72180721b39e04e61157b1892830f6c390b/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  449  /usr/local/bin/python3 /Users/matthew/Downloads/FinTech-UW-2021-11-e66ce72180721b39e04e61157b1892830f6c390b/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  450  /usr/local/bin/python3 /Users/matthew/Downloads/FinTech-UW-2021-11-e66ce72180721b39e04e61157b1892830f6c390b/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  451  /usr/local/bin/python3 /Users/matthew/Downloads/FinTech-UW-2021-11-e66ce72180721b39e04e61157b1892830f6c390b/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  452  /usr/local/bin/python3 /Users/matthew/Downloads/FinTech-UW-2021-11-e66ce72180721b39e04e61157b1892830f6c390b/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  453  conda activate dev
+  454  python app.py
+  455  ls
+  456  cd Desktop
+  457  cd 01_Loan_Qualifier_Financial_Calculations
+  458  cd Unsolved
+  459  cd qualifier
+  460  ls
+  461  run app.py
+  462  open app.py
+  463  python app.py
+  464  cd ~
+  465  ls
+  466  Designer.app
+  467  cd
+  468  cd
+  469  ls
+  470  cd ~
+  471  ls
+  472  cd Desktop
+  473  cd Downloads
+  474  cdls
+  475  ls
+  476  cd ..
+  477  ls
+  478  cd Downloads
+  479  ls
+  480  ls
+  481  python app.py
+  482  cd Solved
+  483  ls
+  484  conda deactivate
+  485  ls
+  486  cd
+  487  ls
+  488  Desktop
+  489  cd Desktop
+  490  cd Fintech
+  491  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  492  cd Unsolved
+  493  python app.py
+  494  /usr/local/bin/python3 /Users/matthew/Desktop/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  495   /usr/bin/env /usr/local/bin/python3 /Users/matthew/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54278 -- Untitled-1 
+  496  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  497  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  498  /usr/local/bin/python3 /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  499  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  500  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  501  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  502  source /Users/matthew/opt/anaconda3/bin/activate
+  503  conda activate dev
+  504  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/qualifier/cli.py
+  505  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  506  source /Users/matthew/opt/anaconda3/bin/activate
+  507  conda activate dev
+  508  source /Users/matthew/opt/anaconda3/bin/activate
+  509  conda activate dev
+  510  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  511  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  512  python cli.py
+  513  ls
+  514  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  515  ls
+  516  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  517  ls
+  518  cd Desktop
+  519  cd Fintech
+  520  cd matt_cli_test
+  521  ls
+  522  python cli.py
+  523  python3 cli.py
+  524  pwd 
+  525  ls
+  526  pwd
+  527  pip install fire
+  528  conda activate dev
+  529  pip install fire
+  530  ls
+  531  cd Desktop
+  532  cd Fintech
+  533  mkdir matt_cli_test
+  534  ls
+  535  cd matt_cli_test
+  536  touch cli.py
+  537  ls
+  538  open cli.py
+  539  ls
+  540  open cli.py
+  541  ls
+  542  python3 cli.py
+  543  python cli.py
+  544  python cli.py
+  545  conda deacitvate
+  546  y
+  547  yes
+  548  source /Users/matthew/opt/anaconda3/bin/activate
+  549  conda activate dev
+  550  ls
+  551  ls
+  552  cd Desktop
+  553  cd Fintech
+  554  ls
+  555  cd matt_cli_test
+  556  ls
+  557  open cli.py
+  558  ls
+  559  python3 cli.py
+  560  python cli.py
+  561  python cli.py
+  562  $python cli.py
+  563  ls
+  564  cd Desktop
+  565  cd Fintech
+  566  cd matt_cli_test
+  567  ls
+  568  conda activate dev
+  569  python cli.py
+  570  ls
+  571  cd cli.py
+  572  conda deactivate
+  573  python cli.py
+  574  python cli.py
+  575  conda activate dev
+  576  python cli.py
+  577  python cli.py
+  578  python cli.py
+  579  conda deactivate
+  580  python cli.py
+  581  source /Users/matthew/opt/anaconda3/bin/activate
+  582  conda activate dev
+  583  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  584  /Users/matthew/opt/anaconda3/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  585  ls
+  586  cd Desktop
+  587  cd Fintech
+  588  cd matt_cli_test
+  589  ls
+  590  python cli.py
+  591  python cli.py
+  592  python 3 cli.py
+  593  python3 cli.py
+  594  run cli.py
+  595  cmd
+  596  pwd
+  597  cd Desktop
+  598  cd Fintech
+  599  cd matt_cli_test
+  600  ls
+  601  python cli.py
+  602  install random
+  603  import random
+  604  pip install fire
+  605  ls
+  606  clear
+  607  ls
+  608  python cli.py
+  609  python cli.py
+  610  cli.py
+  611  python cli.pi
+  612  python cli.py
+  613  python3 cli.py
+  614  python cli.py
+  615  source /Users/matthew/opt/anaconda3/bin/activate
+  616  conda activate dev
+  617  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  618  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  619  ls
+  620  python cli.py
+  621  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  622  python cli.py
+  623  python cli.py
+  624  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  625  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  626  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_cli_test/cli.py
+  627  python cli.py
+  628  python cli.py --pants=True
+  629  python cli.py --pants=True
+  630  python cli.py --pants=False
+  631  python cli.py --pants=True
+  632  cd
+  633  cd~
+  634  cd ~
+  635  ls
+  636  cd Desktop
+  637  ls
+  638  cd Fintech
+  639  cd ~
+  640  cd Downloads
+  641  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  642  ls
+  643  cd Unsolved
+  644  ls
+  645  python app.py
+  646  cd /Users/matthew/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved % 
+  647  cd Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved\n
+  648  ls
+  649  python app.py
+  650  python app.py --credit_score=750
+  651  python app.py --credit_score=750 --debt=5000
+  652  python app.py --credit_score=750 --debt=600
+  653  python app.py --credit_score=750 --debt=50000000
+  654  python app.py --credit_score=750 --debt=5
+  655  python app.py --credit_score=750 --debt=5000
+  656  python app.py --credit_score=750 --debt=50
+  657  python app.py --credit_score=300 --debt=5000
+  658  python app.py --credit_score=300 --debt=5000
+  659  cd Downloads
+  660  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  661  ls
+  662  clear
+  663  ls
+  664  cd Unsolved
+  665  source /Users/matthew/opt/anaconda3/bin/activate
+  666  conda activate dev
+  667  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/Questionary/dialog.py
+  668  cd Downloads
+  669  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  670  cd Unsolved
+  671  ls
+  672  python app.py --credit_score=750 --debt=5000 --income=20000
+  673  python app.py --credit_score=750 --debt=5000 --income=20
+  674  pip install questionary
+  675  cd
+  676  cd ..
+  677  ls
+  678  cd matthew
+  679  ls
+  680  cd Downloads
+  681  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  682  cd Unsolved
+  683  cd Questionary
+  684  python dialog.py
+  685  python dialog.py
+  686  python dialog.py
+  687  cd ..
+  688  cd ..
+  689  cd ..
+  690  cd ..
+  691  cd Desktop
+  692  cd 02_Adding_questionary_to_Loan_Qualifier\ 2
+  693  cd Unsolved
+  694  ls
+  695  ```shell\n    python app.py --credit_score=750 --debt=5000 --income=20000\n    ```
+  696  clear
+  697  python app.py --credit_score=750 --debt=5000 --income=20000
+  698  python app.py
+  699  python app.py
+  700  clear
+  701  git config --global user.name Matthew Rudd
+  702  git config --global user.name Matthew Rudd
+  703  git config --global user.email crss308@gmail.com
+  704  git config --list
+  705  git clone git@github.com:mprudd2/Test-Repo.git
+  706  ls
+  707  cd Desktop
+  708  git clone git@github.com:mprudd2/Test-Repo.git
+  709  ls
+  710  cd Test-Repo
+  711  git status
+  712  git add README.md
+  713  git status
+  714  touch file_one
+  715  ls
+  716  ls
+  717  touch file_one.txt
+  718  ls
+  719  git status
+  720  git add file_one.txt
+  721  git status
+  722  git commit - m "i edited read me file and created a new file_one file"
+  723  git commit -m "I edited Read file and added one new file"
+  724  git push 
+  725  cd ..
+  726  git clone git@github.com:mprudd2/Applying-Markdown.git
+  727  git status
+  728  source /Users/matthew/opt/anaconda3/bin/activate
+  729  conda activate dev
+  730  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  731  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  732  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  733  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  734  source /Users/matthew/opt/anaconda3/bin/activate
+  735  conda activate dev
+  736  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  737  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  738  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  739  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  740  source /Users/matthew/opt/anaconda3/bin/activate
+  741  conda activate dev
+  742  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  743  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  744  source /Users/matthew/opt/anaconda3/bin/activate
+  745  conda activate dev
+  746  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  747  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  748  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  749  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  750  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  751  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  752  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  753  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  754  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  755  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  756  source /Users/matthew/opt/anaconda3/bin/activate
+  757  conda activate dev
+  758  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  759  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  760  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  761  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  762  source /Users/matthew/opt/anaconda3/bin/activate
+  763  conda activate dev
+  764  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  765  source /Users/matthew/opt/anaconda3/bin/activate
+  766  conda activate dev
+  767  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  768  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  769  source /Users/matthew/opt/anaconda3/bin/activate
+  770  conda activate dev
+  771  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  772  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  773  source /Users/matthew/opt/anaconda3/bin/activate
+  774  conda activate dev
+  775  /Users/matthew/opt/anaconda3/envs/dev/bin/python "/Users/matthew/Desktop/02_Adding_questionary_to_Loan_Qualifier 2/random.py"
+  776  source /Users/matthew/opt/anaconda3/bin/activate
+  777  conda activate dev
+  778  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_test_files/cli.py
+  779  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/matt_test_files/cli.py
+  780  clear
+  781  cd Desktop
+  782  cd Applying-Markdown
+  783  git commit -m "Added text to Readme"
+  784  git push
+  785  git status
+  786  git add README.md
+  787  git status
+  788  git commit -m "edited readme"
+  789  git status
+  790  git push
+  791  git status
+  792  clear
+  793  cd ..
+  794  conda activate dev
+  795  source /Users/matthew/opt/anaconda3/bin/activate
+  796  conda activate dev
+  797  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_One_Upload/loan_analyzer.py
+  798  conda activate dev
+  799  cd Desktop
+  800  cd 02_Stu_Build_ATM_Functions
+  801  ls
+  802  cd Unsolved
+  803  conda activate atmdev
+  804  conda create -n atmdev python=3.7 anaconda
+  805  clpip install -r requirements.txt
+  806  pip install -r requirements.txt
+  807  clear
+  808  cd ..
+  809  cd ..
+  810  git clone git@github.com:mprudd2/First_repo.git
+  811  git status
+  812  git add Firs_repo
+  813  git commit -m "REad me updated"
+  814  git status
+  815  clear
+  816  cd First_repo
+  817  git status
+  818  git commit -m "read me updated"
+  819  git push
+  820  git status
+  821  git add "README.md"
+  822  git commit -m "Y"
+  823  git push
+  824  git status
+  825  source /Users/matthew/opt/anaconda3/bin/activate
+  826  conda activate dev
+  827  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/02_Stu_Build_ATM_Functions/Unsolved/atm/utils.py
+  828  ls
+  829  cd Unsolved
+  830  ls
+  831  pyhton atm.py
+  832  python atm.py
+  833  pwd
+  834  source /Users/matthew/opt/anaconda3/bin/activate
+  835  conda activate dev
+  836  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  837  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  838  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  839  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  840  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  841  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  842  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  843  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  844  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  845  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  846  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  847  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  848  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  849  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  850  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  851  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  852  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  853  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  854  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  855  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  856  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  857  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  858  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  859  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  860  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  861  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  862  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  863  source /Users/matthew/opt/anaconda3/bin/activate
+  864  conda activate dev
+  865  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  866  source /Users/matthew/opt/anaconda3/bin/activate
+  867  conda activate dev
+  868  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  869  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  870  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  871  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  872  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  873  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  874  source /Users/matthew/opt/anaconda3/bin/activate
+  875  conda activate dev
+  876  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  877  source /Users/matthew/opt/anaconda3/bin/activate
+  878  conda activate dev
+  879  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  880  source /Users/matthew/opt/anaconda3/bin/activate
+  881  conda activate dev
+  882  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  883  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  884  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  885  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  886  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  887  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  888  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  889  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  890  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  891  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  892  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  893  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  894  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  895  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  896  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  897  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  898  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  899  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  900  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  901  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  902  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  903  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  904  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  905  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  906  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  907  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  908  source /Users/matthew/opt/anaconda3/bin/activate
+  909  conda activate dev
+  910  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  911  clear
+  912  cd
+  913  cd Dsktop
+  914  cd Desktop
+  915  ls
+  916  cd Fintech
+  917  git add git@github.com:mprudd2/Module_OneChallenge_Rudd.git
+  918  git clone git@github.com:mprudd2/Module_OneChallenge_Rudd.git
+  919  git status
+  920  cd Module_OneChallenge_Rudd
+  921  ls
+  922  ls
+  923  git add loan_analyzer_rudd.py
+  924  git status
+  925  git commit - "deleted template and added my almost completed loan analyzer assignment"
+  926  git commi -m "deleted\ntemplate and added my almost completed loan analyzer assignment"
+  927  git commit -m "deleted\ntemplate and added my almost completed loan analyzer assignment"
+  928  git status
+  929  git push
+  930  git status
+  931  clear
+  932  ls
+  933  git status
+  934  git commit -m "Challenge has been updated and finalized"
+  935  git add loan_analyzer_rudd.py
+  936  git add inexpensive_loans.csv
+  937  git status
+  938  git commit -m "Final pload to github with completed project"
+  939  git status
+  940  git push
+  941  git status
+  942  git add loan_analyzer_rudd.py
+  943  git add inexpensive_loans.csv
+  944  git status
+  945  cd Desktop
+  946  cdd Fintech/Module_OneChallenge_Rudd ls
+  947  cd Fintech/Module_OneChallenge_Rudd
+  948  ls
+  949  git add inexpensive_loans.csv
+  950  git add loan_analyzer_rudd.py
+  951  git commit -m "This if my final submission/upload"
+  952  git push
+  953  git status
+  954  git push
+  955  git rm README.md
+  956  git status
+  957  git rm  Module_One_Upload/loan_analyzer.py
+  958  git status
+  959  git commit -m "removing un needed files"
+  960  git push
+  961  git status
+  962  source /Users/matthew/opt/anaconda3/bin/activate
+  963  conda activate dev
+  964  source /Users/matthew/opt/anaconda3/bin/activate
+  965  conda activate dev
+  966  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_OneChallenge_Rudd/loan_analyzer_rudd.py
+  967  source /Users/matthew/opt/anaconda3/bin/activate
+  968  conda activate dev
+  969  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_TwoChallenge_Rudd/loan_qualifier_app/app.py
+  970  data/daily_rate_sheet.cs
+  971  daily_rate_sheet.csv
+  972  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_TwoChallenge_Rudd/loan_qualifier_app/app.py
+  973  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_TwoChallenge_Rudd/loan_qualifier_app/app.py
+  974  data/dailyrate_rate_sheet.csv
+  975  data/daily_rate_sheet.csv
+  976  loan_qualifier_app/
+  977  cd
+  978  ls
+  979  cd Desktop
+  980  ls
+  981  cd Fintech
+  982  cd Module_TwoChallenge_Rudd
+  983  ls
+  984  cd loan_qualifier_app
+  985  ls
+  986  cd data
+  987  ls
+  988  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_TwoChallenge_Rudd/loan_qualifier_app/app.py
+  989  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_TwoChallenge_Rudd/loan_qualifier_app/app.py
+  990  /Users/matthew/opt/anaconda3/envs/dev/bin/python /Users/matthew/Desktop/Fintech/Module_TwoChallenge_Rudd/loan_qualifier_app/app.py
+  991  cd Desktop
+  992  cd Fintech
+  993  cd Module_TwoChallenge_Rudd
+  994  ls
+  995  cd loan_qualifier_app
+  996  python app.py
+  997  python app.py
+  998  cleclear
+  999  clear
+ 1000  python app.py
+ 1001  source /Users/matthew/opt/anaconda3/bin/activate
+ 1002  conda activate dev
+ 1003  ls
+ 1004  conda activate dev
+ 1005  conda list pandas
+ 1006  conda list jupyterlab
+ 1007  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+ 1008  juypter lab
+ 1009  jupyter lab
+ 1010  conda deactivate
+ 1011  conda activate dev
+ 1012  jupyter lab
+ 1013  conda activate dev
+ 1014  jupyter lab
+ 1015  conda activate dev
+ 1016  cd Desktop
+ 1017  git clone git@github.com:mprudd2/Challenge_Two.git
+ 1018  ls
+ 1019  cd Challenge_Two
+ 1020  ls
+ 1021  python app.py
+ 1022  python app.py
+ 1023  python app.py
+ 1024  python app.py
+ 1025  python app.py
+ 1026  python app.py
+ 1027  cd
+ 1028  ls
+ 1029  cd Desktop
+ 1030  cd Challenge_Two
+ 1031  ls
+ 1032  git status
+ 1033  git commit -m "First upload, added function to file.io and to app.py"
+ 1034  git add
+ 1035  fit add app.py, qualifier/utils/fileio.py
+ 1036  git add app.py, qualifier/utils/fileio.py
+ 1037  git add app.py
+ 1038  git add qualifier/
+ 1039  git status
+ 1040  git commit -m "first upload, changes made include creating functions in file.io and in app.py"
+ 1041  git push
