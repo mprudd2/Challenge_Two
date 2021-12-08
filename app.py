@@ -11,7 +11,7 @@ import fire
 import questionary
 from pathlib import Path
 
-from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import load_csv, save_csv
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -83,6 +83,8 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     """
 
+
+
     # Calculate the monthly debt ratio
     monthly_debt_ratio = calculate_monthly_debt_ratio(debt, income)
     print(f"The monthly debt to income ratio is {monthly_debt_ratio:.02f}")
@@ -102,14 +104,29 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     return bank_data_filtered
 
 
-def save_qualifying_loans(qualifying_loans):
-    """Saves the qualifying loans to a CSV file.
 
-    Args:
-        qualifying_loans (list of lists): The qualifying bank loans.
+def save_qualifying_loans(qualifying_loans):
+    """Saves qualifying loans to our csv file
+    
+    Args: qualiying loans: the qualifying bank loans
     """
-    # @TODO: Complete the usability dialog for savings the CSV Files.
-    # YOUR CODE HERE!
+    csvpath = Path('qualifying_loans.csv')
+    save_csv(csvpath, qualifying_loans)
+
+    if len(qualifying_loans) == 0:
+            sys.exit("Sorry you do not qualify for a loan at this time")
+    ask_to_save = questionary.confirm(f"Looks like you qualify for a loan,Would you like to save your qualifying loans?").ask()
+
+    if ask_to_save == False:
+        sys.exit(f"Loan information not saved. Thank you for using Qualifier!")
+
+    rate_sheet = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
+    rate_sheet = Path(rate_sheet)
+    
+    save_csv(rate_sheet, qualifying_loans)
+    sys.exit(f"Loans saved to output file: ({rate_sheet}). Thank you for using Qualifier!")
+
+    
 
 
 def run():
