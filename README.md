@@ -1,12 +1,15 @@
-# Project Title
+# Challenge Two Loan Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+The overarching goal I had for this project was to use the existing code that we created in class - and then add a real-world dialog/scenario to it to make it come to life.  This program runs a loan qualification process for potential home buyers and provides instant feedback to whether an individual qualifies for a loan, or not.  The program takes in information provided by the applicant and compares these credentials to current rates to see if there are any fits for a loan.  The user/applicant has the option to save their 'qualifying loans' as a new csv file so that they can have this information handy if they need it in the future.  And if they dont want to create a csv file of the loans, they can decline the option!     
 
 ---
 
 ## Technologies
 
 Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+
+There were a few technologies that were used to build this program.  The overarching tech was Visual studio code to collect/combine the code and Python as the actual language.  The libraries used within Python were pathlib, sys, fire, and questionary.  
+
 
 ---
 

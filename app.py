@@ -115,7 +115,7 @@ def save_qualifying_loans(qualifying_loans):
 
     if len(qualifying_loans) == 0:
             sys.exit("Sorry you do not qualify for a loan at this time")
-    ask_to_save = questionary.confirm(f"Looks like you qualify for a loan,Would you like to save your qualifying loans?").ask()
+    ask_to_save = questionary.confirm(f"Looks like you qualify for a loan, Would you like to save your qualifying loans?").ask()
 
     if ask_to_save == False:
         sys.exit(f"Loan information not saved. Thank you for using Qualifier!")
