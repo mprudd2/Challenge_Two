@@ -110,8 +110,8 @@ def save_qualifying_loans(qualifying_loans):
     
     Args: qualiying loans: the qualifying bank loans
     """
-    csvpath = Path('qualifying_loans.csv')
-    save_csv(csvpath, qualifying_loans)
+    # csvpath = Path('qualifying_loans.csv')
+    # save_csv(csvpath, qualifying_loans)
 
     if len(qualifying_loans) == 0:
             sys.exit("Sorry you do not qualify for a loan at this time")
@@ -119,13 +119,19 @@ def save_qualifying_loans(qualifying_loans):
 
     if ask_to_save == False:
         sys.exit(f"Loan information not saved. Thank you for using Qualifier!")
-
-    rate_sheet = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
-    rate_sheet = Path(rate_sheet)
+    try:
+        rate_sheet = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
+        rate_sheet = Path(rate_sheet)
     
-    save_csv(rate_sheet, qualifying_loans)
-    sys.exit(f"Loans saved to output file: ({rate_sheet}). Thank you for using Qualifier!")
-
+        save_csv(rate_sheet, qualifying_loans)
+        sys.exit(f"Loans saved to output file: ({rate_sheet}). Thank you for using Qualifier!")
+    except:
+        rate_sheet = "qualifing_loans.csv"
+        rate_sheet = Path(rate_sheet)
+    
+        save_csv(rate_sheet, qualifying_loans)
+        sys.exit(f"Loans saved to output file: ({rate_sheet}). Thank you for using Qualifier!")
+        
     
 
 
