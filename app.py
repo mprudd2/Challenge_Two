@@ -110,8 +110,7 @@ def save_qualifying_loans(qualifying_loans):
     
     Args: qualiying loans: the qualifying bank loans
     """
-    # csvpath = Path('qualifying_loans.csv')
-    # save_csv(csvpath, qualifying_loans)
+  
 
     if len(qualifying_loans) == 0:
             sys.exit("Sorry you do not qualify for a loan at this time")
@@ -132,7 +131,8 @@ def save_qualifying_loans(qualifying_loans):
         save_csv(rate_sheet, qualifying_loans)
         sys.exit(f"Loans saved to output file: ({rate_sheet}). Thank you for using Qualifier!")
         
-    
+# I added terminology to this code to prevent error message coming up if user gives
+# an invlavid response to file path for csv save.
 
 
 def run():

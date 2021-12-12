@@ -6,16 +6,14 @@ The overarching goal I had for this project was to use the existing code that we
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems (Works on all operating systems). Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This program uses the following Python (3.7) Libraries
 
-This program is coded in python
-`sys`
+* Path:
+* Questionary
+* Fire:
+* sys:
 
-
-There were a few technologies that were used to build this program.  The overarching tech was Visual studio code to collect/combine the code and Python as the actual language.  The libraries used within Python were pathlib, sys, fire, and questionary.  
-
-Framework explains what code does built in python version of anaconda
-FRAMEWORK How to download file, desktop, terminal, - then pass in command - must have annaconda python version
+I built and assembled this code in Visual Studios - The framework necessary to run/use this program is seen in my requirements.txt file.
 
 ```
 conda environment_name create -f requirements.txt
@@ -25,11 +23,13 @@ conda environment_name create -f requirements.txt
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
-```
-Code Block - uses three `
-```
 
+Before using this program, make sure you install the following:
+
+```python
+  pip install fire
+  pip install questionary
+```
 
 ---
 
@@ -37,16 +37,42 @@ Code Block - uses three `
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 
+See the following Architecture structure to understand how program was built:
+
+* app.py: This file is where the program lives
+    * qualifiers:
+        * filters: filters holds the filter variables that allow a decision to be made
+        * utils: utils holds the program calculators and both the load & save csv functions
+
+### User Examples
+
+When running the application the user will get a handful of questions and responses like seen below. Depending on the user responses, outcomes will be different.
+
+![Loan Qualifier App ](data/example_one.png)
+
+![Loan Qualifier App](data/example_two.png)
+
+![Loan Qualifier App](data/example_three.png)
 ---
+
+
+### Code Examples
+Here are some exmples of the code I created which helped me create the program and allow it to function
+
+**Loan to Value Filter.**
+* This filter takes the applicants LTV information to see if it qualifies for any of the current loans offered.
+![Loan Qualifier App](data/ltv_example.png)
+
+**Loan to Value Calculator.**
+* This is the LTV calculator which allows the program to filter it against offered loans.
+![Loan Qualifier App](data/ltv_calc.png)
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
-
+Program created by Matthew Rudd - mprudd2@gmail.com - www.linkedin.com/in/matthewp-rudd
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
-
+MIT
 
