@@ -29,6 +29,8 @@ def load_csv(csvpath):
             data.append(row)
     return data
 
+# save_csv allows me to save user csv if they want their information saved
+
 def save_csv(csvpath, data, header=None):
     """Saves the CSV file from path provided.
 

@@ -111,6 +111,9 @@ def save_qualifying_loans(qualifying_loans):
     Args: qualiying loans: the qualifying bank loans
     """
   
+# this code brings the user story into action
+# the try/except clause was created so that if the user put an invalid reponse when prompted 
+# file path to save csv, that it would not break the app
 
     if len(qualifying_loans) == 0:
             sys.exit("Sorry you do not qualify for a loan at this time")
@@ -131,8 +134,7 @@ def save_qualifying_loans(qualifying_loans):
         save_csv(rate_sheet, qualifying_loans)
         sys.exit(f"Loans saved to output file: ({rate_sheet}). Thank you for using Qualifier!")
         
-# I added terminology to this code to prevent error message coming up if user gives
-# an invlavid response to file path for csv save.
+
 
 
 def run():
